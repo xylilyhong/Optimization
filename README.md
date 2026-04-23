@@ -1,4 +1,4 @@
-TLDR: Optimizing mutations on a phylogenetic tree
+### TLDR: Optimizing mutations on a phylogenetic tree
 
 During an evolutionary biology lecture in my sophomore year, I was introduced to phylogenetic trees — graphical representations of the evolutionary paths that species traverse across generations. As species evolve along these branches, they undergo trait changes, diverging into similar species or subspecies. To determine where these changes — the acquisition or loss of a trait—occurred, we apply the Principle of Parsimony. This magical and beautiful rule says that while multiple paths can explain the transition from root to leaf, the one allowing the minimum number of changes is favored.
 
