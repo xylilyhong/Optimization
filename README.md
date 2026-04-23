@@ -10,9 +10,7 @@ With these in mind, I reached out to my colleague in my lab whose research cente
 
 <div align="center">
 
-![](phylogenetic tree.png)
+![](phylogenetic_tree.jpg)
 ### Figure 1. The original HUGE phylogenetic tree for Nebria Beetles 
 
 </div>
-
-<div align="center">
